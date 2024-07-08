@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lillyyima4
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C++
+- 🌱 C++ , JAVA ,python 
 - 📫 How to reach me malakcollage@gmail.com
 
 <!---
